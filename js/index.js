@@ -19,7 +19,7 @@ $('#main-nav a, #medium-up-nav a').on('click', function() {
   var tabID = $(this).attr('data-tab');
   $('#main-nav').hide();
   $('.panel').hide();
-  $('#' + tabID).fadeIn( 200 );
+  $('#' + tabID).fadeIn( 400 );
 });
 
 
