@@ -18,8 +18,8 @@ $('.nav-trigger').on('click', function() {
 $('#main-nav a, #medium-up-nav a').on('click', function() {
   var tabID = $(this).attr('data-tab');
   $('#main-nav').hide();
-  $('.panel').hide();
-  $('#' + tabID).show();
+  $('.panel').fadeOut( 400 );
+  $('#' + tabID).fadeIn( 200 );
 });
 
 
