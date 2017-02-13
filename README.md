@@ -1,5 +1,5 @@
 # Layered Web Design
-A Layered Web Design (LWD) template
+A LAYERED WEB DESIGN (LWD) TEMPLATE
 
 LWD is a new methodology for creating one-page websites, specifically targeting small businesses and startups that need only static websites with limited content. In the code, the site is essentially a one-page website, but visually it looks like a multi-page website with many of the common features of a website (navigation patterns, menu links, separate "pages", etc.). You can think of it as a hybrid app/website.
 
