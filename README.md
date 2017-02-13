@@ -52,7 +52,7 @@ This pattern also has the secondary benefits of: a smaller code base, ability to
 
 ## What sorts of techniques did you use?
 
-It's not all that complicated. The main concept is to take a relatively positioned one-page website and break up the sections into layers. This is achieved by applying position: absolute (of fixed) to those sections. This creates a stacking effect where you can bring layers to the front or layer them in any way that you choose. Using viewport height and width units allows you to have full-bleed images or layers with scrolling or no scrolling. I used jQuery to handle section transitions (page loads) but you could use CSS or vanilla javascript. That's it, really. The rest is building out sections just like you would any page on a website. You could even feed dynamic data to the page through a JSON file or AJAX request to a database.
+The main concept is to take a relatively positioned one-page website and break up the sections into layers. This is achieved by applying position: absolute (of fixed) to those sections. This creates a stacking effect where you can bring layers to the front or layer them in any way that you choose. Using viewport height and width units allows you to have full-bleed images or layers with scrolling or no scrolling. I used jQuery to handle section transitions (page loads) but you could use CSS or vanilla javascript. That's it, really. The rest is building out sections just like you would any page on a website. You could even feed dynamic data to the page through a JSON file or AJAX request to a database.
 
 ## Have questions or comments?
 
