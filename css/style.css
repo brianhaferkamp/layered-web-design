@@ -71,7 +71,7 @@ iframe {
 
 @media (min-width: 600px) {
   #about .section-header {
-    background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/495197/kg71bxh8kfw-raybay.jpg);
+    background-image: url(../img/kg71bxh8kfw-raybay.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -79,7 +79,7 @@ iframe {
 }
 @media (min-width: 600px) {
   #services .section-header {
-    background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/495197/i2-rentbpku-oskar-krawczyk.jpg);
+    background-image: url(../img/i2-rentbpku-oskar-krawczyk.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -87,7 +87,7 @@ iframe {
 }
 @media (min-width: 600px) {
   #contact .section-header {
-    background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/495197/2fgvaqx-fxs-oskar-krawczyk.jpg);
+    background-image: url(../img/2fgvaqx-fxs-oskar-krawczyk.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -95,7 +95,7 @@ iframe {
 }
 @media (min-width: 600px) {
   #shop .section-header {
-    background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/495197/bfezchfpm2i-igor-ovsyannykov.jpg);
+    background-image: url(../img/bfezchfpm2i-igor-ovsyannykov.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -214,8 +214,8 @@ iframe {
 }
 
 .background {
-  background: -webkit-linear-gradient(rgba(0, 0, 0, 0.1), transparent), url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/495197/0st9yhngses-benjamin-child.jpg);
-  background: linear-gradient(rgba(0, 0, 0, 0.1), transparent), url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/495197/0st9yhngses-benjamin-child.jpg);
+  background: -webkit-linear-gradient(rgba(0, 0, 0, 0.1), transparent), url(../img/0st9yhngses-benjamin-child.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.1), transparent), url(../img/0st9yhngses-benjamin-child.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
