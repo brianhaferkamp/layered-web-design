@@ -4,6 +4,9 @@ A Layered Web Design (LWD) template
 ### Demo
 [https://brianhaferkamp.github.io/layered-web-design-template/](https://brianhaferkamp.github.io/layered-web-design-template/)
 
+### Video
+(https://youtu.be/PWGvR_wAiBA)
+
 ### Screenshots of the sections
 
 #### Home/Splash
